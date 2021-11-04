@@ -7,7 +7,7 @@ author: drancope
 ---
 En este artículo intentaré dar indicaciones para hacer cada uno de los artículos de un blog Jekyll.
 
-En el repositorio hay una carpeta llamada **_posts**. En ella hay un archivo por cada artículo. El nombre del artículo debe tener la fecha y el título del artículo. En formato año-mes-día. Es decir, que un archivo puede llamarse "2021-09-15-Noticias-importantes.markdown". Después, el nombre termina con un punto y la palabra *markdown*.
+En el repositorio hay una carpeta llamada **_postl**. En ella hay un archivo por cada artículo. El nombre del artículo debe tener la fecha y el título del artículo. En formato año-mes-día. Es decir, que un archivo puede llamarse "2021-09-15-Noticias-importantes.markdown". Después, el nombre termina con un punto y la palabra *markdown*.
 
 El documento contiene dos partes: una al inicio, que empieza y termina con tres guiones ---, y otra con el texto. En la primera parte, hay que poner el estilo de página (lo normal es *default*, aunque alguna plantilla de temas admite también *post*), el título, la fecha y el autor. De la siguiente manera:
 
