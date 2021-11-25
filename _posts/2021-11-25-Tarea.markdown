@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Prueba de un post"
+title:  "Tarea"
 date:   2021-10-26 12:31:58 +0200
 categories: Novedades
 author: jsangal
 ---
-Si ves esto es que funciona 
+Yo, Javier Sánchez gallego he hecho la tarea.
