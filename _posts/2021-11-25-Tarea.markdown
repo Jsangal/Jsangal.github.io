@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Tarea"
+title:  "Y era un domingo la tarde fuy a los coches de choke pirubirubirubiiiii"
 date:   2021-10-26 12:31:58 +0200
 categories: Novedades
 author: jsangal
