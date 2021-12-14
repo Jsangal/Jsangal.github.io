@@ -1,10 +1,10 @@
 ---
 layout: default
-title:  "Y era un domingo la tarde fuy a los coches de choke pirubirubirubiiiii"
+title:  "Profesor ya vaaaa"
 date:   2021-10-26 12:31:58 +0200
 categories: Novedades
 author: jsangal
 ---
-##Hola profesor!##
+
 
 Yo, **Javier Sánchez Gallego** he hecho la _tarea_.
