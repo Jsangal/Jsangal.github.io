@@ -4,7 +4,14 @@
 
 layout: default
 ---
-<a href="https://github.com/Jsangal/Jsangal.github.io">"About"</a>
+<ul>
+    <li><a href="#">Home</a></li>
+    <li><a href="#">About</a></li>
+    <li><a href="#">Services</a></li>
+    <li><a href="#">Partners</a></li>
+    <li><a href="#">Contacts</a></li>
+</ul>
+
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
