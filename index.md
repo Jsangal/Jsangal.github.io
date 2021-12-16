@@ -4,12 +4,11 @@
 
 layout: default
 ---
-<div class="menu">
+
 <ul>
-    <li><a href="https://jsangal.github.io/">inicio</a></li>
     <li><a href="https://github.com/Jsangal/Jsangal.github.io">About</a></li>
 </ul>
-</div>
+
 
 <div class="posts">
   {% for post in site.posts %}
