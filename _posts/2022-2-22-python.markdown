@@ -5,3 +5,8 @@ date:   2021-12-14 12:31:58 +0200
 categories: Novedades
 author: jsangal
 ---
+#¿Que es python?
+
+**Python** es un lenguaje de programación creado en los años ochenta por **Guido Van Rossum**
+a partir del lenguaje de programación ABC
+<u>hola profesor se usar html</u>

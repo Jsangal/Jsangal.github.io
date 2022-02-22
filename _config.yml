@@ -16,11 +16,11 @@
 title: Blog de Javi
 email: correodejsg@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Este es mi blog, hecho para la asignatura de Computación y Robótica
+  Este es un blog, no se que haces leyendolo si no eres el profesor
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
-github_username:
+github_username: "jsangal"
 
 # Build settings
 markdown: kramdown
