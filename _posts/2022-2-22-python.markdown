@@ -5,8 +5,7 @@ date:   2022-2-22 12:31:58 +0200
 categories: Novedades
 author: jsangal
 ---
-#¿Que es python?
+<u>¿Que es python?</u>
 
 **Python** es un lenguaje de programación creado en los años ochenta por **Guido Van Rossum**
-a partir del lenguaje de [programación ABC](http://www.larevistainformatica.com/ABC.htm)
-<u>hola profesor se usar html</u>
+a partir del lenguaje de [**programación ABC](http://www.larevistainformatica.com/ABC.htm)
