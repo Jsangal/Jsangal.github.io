@@ -10,3 +10,27 @@ author: jsangal
 **Python** es un lenguaje de programación creado en los años ochenta por **Guido Van Rossum**
 a partir del lenguaje de [programación ABC](http://www.larevistainformatica.com/ABC.htm).
 su nombre se debe a los humoristas británicos Monty Python.
+
+Como python es un código abierto ha publicado su filosofía a seguir, que es:
+
+
+
+    **·Bello es mejor que feo.**
+    **·Explícito es mejor que implícito.**
+    **·Simple es mejor que complejo.**
+    **·Complejo es mejor que complicado.**
+    **·Plano es mejor que anidado.**
+    **·Disperso es mejor que denso.**
+    **·La legibilidad cuenta.**
+    **·Los casos especiales no son tan especiales como para quebrantar las reglas.**
+    **·Lo práctico gana a lo puro.**
+    **·Los errores nunca deberían dejarse pasar silenciosamente.**
+    **·A menos que hayan sido silenciados explícitamente.**
+    **·Frente a la ambigüedad, rechaza la tentación de adivinar.**
+    **·Debería haber una —y preferiblemente solo una— manera obvia de hacerlo.**
+    **·Aunque esa manera puede no ser obvia al principio a menos que usted sea holandés.24​**
+    **·Ahora es mejor que nunca.**
+    **·Aunque nunca es a menudo mejor que ya mismo.**
+    **·Si la implementación es difícil de explicar, es una mala idea.**
+    **·Si la implementación es fácil de explicar, puede que sea una buena idea.**
+    **·Los espacios de nombres (namespaces) son una gran idea ¡Hagamos más de esas cosas!**
