@@ -13,8 +13,6 @@ su nombre se debe a los humoristas británicos Monty Python.
 
 Como python es un código abierto ha publicado su filosofía a seguir, que es:
 
-
-
     **·Bello es mejor que feo.**
     **·Explícito es mejor que implícito.**
     **·Simple es mejor que complejo.**
@@ -28,9 +26,13 @@ Como python es un código abierto ha publicado su filosofía a seguir, que es:
     **·A menos que hayan sido silenciados explícitamente.**
     **·Frente a la ambigüedad, rechaza la tentación de adivinar.**
     **·Debería haber una —y preferiblemente solo una— manera obvia de hacerlo.**
-    **·Aunque esa manera puede no ser obvia al principio a menos que usted sea holandés.24​**
+    **·Aunque esa manera puede no ser obvia al principio a menos que usted sea holandés.​**
     **·Ahora es mejor que nunca.**
     **·Aunque nunca es a menudo mejor que ya mismo.**
     **·Si la implementación es difícil de explicar, es una mala idea.**
     **·Si la implementación es fácil de explicar, puede que sea una buena idea.**
     **·Los espacios de nombres (namespaces) son una gran idea ¡Hagamos más de esas cosas!**
+
+Debido a esta filosofía python es uno de los mejores lenguajes para principiantes, un ejemplo es la ausencia del punto y coma al final de cada acción, o el remplazo de las llaves por identación.
+
+Esto a su vez, lo ha hecho el lenguaje de programación más usado, sobre pasando al [C](https://openwebinars.net/blog/que-es-c/)
